@@ -1,5 +1,7 @@
 name: Linux
-
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
 on: [push, pull_request]
 
 jobs:
